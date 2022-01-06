@@ -1,5 +1,5 @@
 <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-<img align="center" height="200" src="https://tenor.com/view/protogen-dance-low-res-pixel-rainbow-gif-16037143.gif"/>
+<img align="center" height="200" src="https://media.discordapp.net/attachments/909780383728545844/920737352522022932/robo_boogie.gif"/>
 
 ### Welcome  
 Hello There, My Name Is PixeledLuaWriter, I mainly script on roblox, if you didn't know what my roblox account is, it's [Godcat567](https://roblox.com/users/335228723/profile)  
