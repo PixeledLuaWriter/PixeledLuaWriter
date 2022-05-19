@@ -75,3 +75,5 @@ Hello There, My Name Is PixeledLuaWriter, I mainly script on roblox, if you didn
 
 <img height="400" src="https://memer-api.live/randommeme"/>
 <br />
+
+![Metrics](/github-metrics.svg)
