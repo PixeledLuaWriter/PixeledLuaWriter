@@ -64,14 +64,6 @@ Hello There, My Name Is PixeledLuaWriter, I mainly script on roblox, if you didn
 
 <br />
 
-# Extra Stuff LoL
-
-<p class="txt">
-  Nova is a fwuffy boio~
-</p>
-
-<br />
-
 # Refresh For A New Meme
 
 <img height="400" src="https://memer-api.live/randommeme"/>
