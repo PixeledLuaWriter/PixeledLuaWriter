@@ -1,6 +1,6 @@
 #
 <img align="right" height="200" src="https://media.giphy.com/media/ao9DUiTKH60XS/giphy.gif"/>
-<img align="center" height="200" src="https://media.discordapp.net/attachments/909780383728545844/920737352522022932/robo_boogie.gif"/>
+<img align="center" height="200" src="https://cdn.discordapp.com/attachments/909780383728545844/920737352522022932/robo_boogie.gif"/>
 
 # Welcome  
 Hello There, My Name Is PixeledLuaWriter, I mainly script on roblox, if you didn't know what my roblox account is, it's [Godcat567](https://roblox.com/users/335228723/profile)  
@@ -10,16 +10,17 @@ Hello There, My Name Is PixeledLuaWriter, I mainly script on roblox, if you didn
 
 
 
-# Which Languages I Am Learning/Doing  
-<div align="center">  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
-<img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
-<img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
+# Which Languages I Am Learning/Doing
+
+<div align="center" style="border: 0 solid #e5e7eb; border-radius: 6px 6px;">  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" />  
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="50" />  
+    <img style="margin: 10px" src="https://upload.wikimedia.org/wikipedia/commons/c/cf/Lua-Logo.svg" alt="Lua" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" />
+    <img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="50" />
 </div>  
 
 <br/>  
