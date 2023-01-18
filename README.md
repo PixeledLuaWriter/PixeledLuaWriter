@@ -39,8 +39,8 @@ Hello There, My Name Is PixeledLuaWriter, I mainly script on roblox, if you didn
 
 # Current Statistics
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PixeledLuaWriter&show_icons=true&count_private=true&hide_border=true&bg_color=62,af00fa,0a00af&text_color=aff" align="left" style="width: 100%" height="300" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PixeledLuaWriter&hide_border=true&bg_color=62,af00aa,00008f&text_color=00ffff" align="left" style="width: 100%" height="300" />
+  <img src="https://github-readme-stats-owq72dwj5-pixeledluawriter.vercel.app/api?username=PixeledLuaWriter&show_icons=true&count_private=true&hide_border=true&bg_color=62,af00fa,0a00af&text_color=aff" align="left" style="width: 100%" height="300" />
+  <img src="https://github-readme-stats-owq72dwj5-pixeledluawriter.vercel.app/api/top-langs/?username=PixeledLuaWriter&hide_border=true&bg_color=62,af00aa,00008f&text_color=00ffff" align="left" style="width: 100%" height="300" />
 </div>
 
 <br />
@@ -58,9 +58,9 @@ Hello There, My Name Is PixeledLuaWriter, I mainly script on roblox, if you didn
 # Special Repositories
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=pixeledluawriter&repo=PixeledLuaWriter.github.io&show_owner=false&bg_color=62,323232,646464,1a1a1a&text_color=aff"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=pixeledluawriter&repo=RbxChatLoggerModules&show_owner=false&bg_color=62,323232,646464,1a1a1a&text_color=aff"/>
-  <img src="https://github-readme-stats.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&show_owner=false&bg_color=62,323232,646464,1a1a1a&text_color=aff"/>
+  <img src="https://github-readme-stats-owq72dwj5-pixeledluawriter.vercel.app/api/pin?username=pixeledluawriter&repo=PixeledLuaWriter.github.io&show_owner=false&bg_color=62,323232,646464,1a1a1a&text_color=aff"/>
+  <img src="https://github-readme-stats-owq72dwj5-pixeledluawriter.vercel.app/api/pin?username=pixeledluawriter&repo=RbxChatLoggerModules&show_owner=false&bg_color=62,323232,646464,1a1a1a&text_color=aff"/>
+  <img src="https://github-readme-stats-owq72dwj5-pixeledluawriter.vercel.app/api/pin?username=anuraghazra&repo=github-readme-stats&show_owner=false&bg_color=62,323232,646464,1a1a1a&text_color=aff"/>
 </div>
 
 <br />
